@@ -1,0 +1,2 @@
+# FastCopy v1.6
+customtkinter>=5.0.0
